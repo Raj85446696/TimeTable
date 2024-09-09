@@ -8,6 +8,7 @@ h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 table,th,td{
+    background-color: #fff;
     border: solid 2px #000;
     border-collapse: collapse;
     text-align: center;
