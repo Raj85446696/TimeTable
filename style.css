@@ -1,0 +1,28 @@
+body{
+    margin: 4vw;
+    color: #000;
+}
+h1{
+    font-size: 20px;
+    color: #000;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table,th,td{
+    border: solid 2px #000;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 550;
+}
+.aec{
+    background-color: green;
+}
+.ge{
+    background-color: coral;
+}
+.vac{
+    background-color: yellow;
+}
+.sec{
+    background-color: skyblue;
+}
